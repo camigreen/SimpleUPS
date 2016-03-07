@@ -1,0 +1,17 @@
+{
+    "name": "camigreen/SimpleUPS",
+    "description": "UPS API",
+    "keywords": ["UPS"],
+    "type": "app",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Shawn Gibbons",
+            "email": "sgibbons@palmettoimages.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "~5.3"
+    }
+}
